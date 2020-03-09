@@ -10,7 +10,7 @@ To run this code:
 
 1. Add project id from your GCP Account into gcp_credentials.py
 2. Add your reddit API credentials to Reddit_data_credentials.py
-4. Execute Reddit_Project.py
+3. Execute Reddit_Project.py
 
 Additional information:
 
